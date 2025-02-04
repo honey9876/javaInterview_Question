@@ -1,1 +1,14 @@
-Q1. Implement a Stack using an Array
+
+Stack Questions:
+Implement a Stack using an Array
+Implement a Stack using a Linked List
+Check for Balanced Parentheses using Stack
+Reverse a String using Stack
+Next Greater Element using Stack
+Queue Questions:
+Implement a Queue using an Array
+Implement a Queue using a Linked List
+Implement a Circular Queue
+Reverse a Queue using Recursion
+LRU Cache Implementation using Queue & HashMap
+>>>>>>> 2e36ef2b05d54f8c379ab7c8ac499792aeb04dc6
