@@ -23,14 +23,14 @@ class QueueArray {
 
 
 
-   public class Main {
-    public static void main(String[] args) {
-        QueueArray q = new QueueArray(5);
-        q.enqueue(10);
-        q.enqueue(20);
-        System.out.println(q.dequeue()); // 10
-        q.enqueue(30);
-        System.out.println(q.peek());    // 20
-    }
- }
+//    public class Main {
+//     public static void main(String[] args) {
+//         QueueArray q = new QueueArray(5);
+//         q.enqueue(10);
+//         q.enqueue(20);
+//         System.out.println(q.dequeue()); // 10
+//         q.enqueue(30);
+//         System.out.println(q.peek());    // 20
+//     }
+//  }
 }
